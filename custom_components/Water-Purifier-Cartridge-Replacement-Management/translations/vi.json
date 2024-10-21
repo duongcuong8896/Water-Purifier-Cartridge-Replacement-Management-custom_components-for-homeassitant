@@ -1,0 +1,96 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Tên thiết bị này đã được thiết lập."          
+        },
+        "error": {
+            "unknown": "Lỗi không xác định. Xin hãy report tới github@duongcuong8896.",
+            "invalid_date": "Định dạng ngày tháng vừa nhập không hợp lệ: "    
+        },
+        "step": {
+            "name_start": {
+                "data": {
+                    "name_customer": "Tên máy lọc nước"
+                },
+                "description": "Xin hãy nhập tên máy lọc nước của bạn! vd: Máy lọc nước tầng 1\n"
+            },
+            "date_start": {
+                "data": {
+                    "LS1_date_start": "Ngày thay lõi số 1",
+                    "LS2_date_start": "Ngày thay lõi số 2",
+                    "LS3_date_start": "Ngày thay lõi số 3",
+                    "LS4_date_start": "Ngày thay lõi số 4",
+                    "LS5_date_start": "Ngày thay lõi số 4",
+                    "LS6_date_start": "Ngày thay lõi số 5",
+                    "LS7_date_start": "Ngày thay lõi số 7",
+                    "LS8_date_start": "Ngày thay lõi số 8",
+                    "LS9_date_start": "Ngày thay lõi số 9",
+                    "LS10_date_start": "Ngày thay lõi số 10",
+                    "LS11_date_start": "Ngày thay lõi số 11",
+                    "LS12_date_start": "Ngày thay lõi số 12"               
+                },
+                "description": "Xin hãy nhập ngày thay lõi lọc của bạn.\n\nĐịnh dạng Năm-Tháng-Ngày vd: 1996-08-08\n"
+            },
+            "life_cycle": {
+                "data": {
+                    "LS1_life_cycle": "Thời hạn sử dụng lõi số 1",
+                    "LS2_life_cycle": "Thời hạn sử dụng lõi số 2",
+                    "LS3_life_cycle": "Thời hạn sử dụng lõi số 3",
+                    "LS4_life_cycle": "Thời hạn sử dụng lõi số 4",
+                    "LS5_life_cycle": "Thời hạn sử dụng lõi số 5",
+                    "LS6_life_cycle": "Thời hạn sử dụng lõi số 6",
+                    "LS7_life_cycle": "Thời hạn sử dụng lõi số 7",
+                    "LS8_life_cycle": "Thời hạn sử dụng lõi số 8",
+                    "LS9_life_cycle": "Thời hạn sử dụng lõi số 9",
+                    "LS10_life_cycle": "Thời hạn sử dụng lõi số 10",
+                    "LS11_life_cycle": "Thời hạn sử dụng lõi số 11",
+                    "LS12_life_cycle": "Thời hạn sử dụng lõi số 12"
+                },
+                "description": "Xin hãy nhập thời hạn thay lõi lọc của bạn.\n\nĐịnh dạng là số tháng VD: 24\n"
+            }                
+        }
+    },
+    "options": {
+        "error": {
+            "unknown": "Lỗi không xác định. Xin hãy report tới github@duongcuong8896.",
+            "invalid_date": "Định dạng ngày tháng vừa nhập không hợp lệ: "    
+        },
+        "step": {
+            "date_start": {
+                "data": {
+                    "LS1_date_start": "Ngày thay lõi số 1",
+                    "LS2_date_start": "Ngày thay lõi số 2",
+                    "LS3_date_start": "Ngày thay lõi số 3",
+                    "LS4_date_start": "Ngày thay lõi số 4",
+                    "LS5_date_start": "Ngày thay lõi số 4",
+                    "LS6_date_start": "Ngày thay lõi số 5",
+                    "LS7_date_start": "Ngày thay lõi số 7",
+                    "LS8_date_start": "Ngày thay lõi số 8",
+                    "LS9_date_start": "Ngày thay lõi số 9",
+                    "LS10_date_start": "Ngày thay lõi số 10",
+                    "LS11_date_start": "Ngày thay lõi số 11",
+                    "LS12_date_start": "Ngày thay lõi số 12"  
+                },
+                "description": "Xin hãy nhập ngày thay lõi lọc của bạn.\n\nĐịnh dạng Năm-Tháng-Ngày vd: 1996-08-08\n"
+            },
+            "life_cycle": {
+                "data": {
+                    "LS1_life_cycle": "Thời hạn sử dụng lõi số 1",
+                    "LS2_life_cycle": "Thời hạn sử dụng lõi số 2",
+                    "LS3_life_cycle": "Thời hạn sử dụng lõi số 3",
+                    "LS4_life_cycle": "Thời hạn sử dụng lõi số 4",
+                    "LS5_life_cycle": "Thời hạn sử dụng lõi số 5",
+                    "LS6_life_cycle": "Thời hạn sử dụng lõi số 6",
+                    "LS7_life_cycle": "Thời hạn sử dụng lõi số 7",
+                    "LS8_life_cycle": "Thời hạn sử dụng lõi số 8",
+                    "LS9_life_cycle": "Thời hạn sử dụng lõi số 9",
+                    "LS10_life_cycle": "Thời hạn sử dụng lõi số 10",
+                    "LS11_life_cycle": "Thời hạn sử dụng lõi số 11",
+                    "LS12_life_cycle": "Thời hạn sử dụng lõi số 12"
+                },
+                "description": "Xin hãy nhập thời hạn thay lõi lọc của bạn.\n\nĐịnh dạng là số tháng VD: 24\n"
+            }
+        }
+        
+    }
+}

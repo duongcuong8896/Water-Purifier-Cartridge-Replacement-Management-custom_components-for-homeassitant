@@ -1,0 +1,14 @@
+{
+	"codeowners": ["@cuong"],
+	"config_flow": true,
+	"dependencies": [],
+    "documentation": "https://github.com/duongcuong8896/Water-Purifier-Cartridge-Replacement-Management-custom_components-for-homeassitant",
+	"integration_type": "device",
+	"domain": "Water_Purifier_Cartridge_Management",
+	"name": "Water Purifier Cartridge Replacement Management",
+	"requirements": [
+        "python_dateutil",
+        "voluptuous"
+    ],
+    "version": "1.0.0"
+}

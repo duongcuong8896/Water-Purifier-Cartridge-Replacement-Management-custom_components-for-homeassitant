@@ -1,0 +1,95 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "This device name has already been set up."          
+        },
+        "error": {
+            "unknown": "Unknown error. Please report to github@duongcuong8896.",
+            "invalid_date": "The date format you entered is invalid: "    
+        },
+        "step": {
+            "name_start": {
+                "data": {
+                    "name_customer": "Water Purifier name"
+                },
+                "description": "Please enter your water purifier name! e.g., Water Purifier on the 1st floor\n"
+            },
+            "date_start": {
+                "data": {
+                    "LS1_date_start": "Replacement date for cartridge 1",
+                    "LS2_date_start": "Replacement date for cartridge 2",
+                    "LS3_date_start": "Replacement date for cartridge 3",
+                    "LS4_date_start": "Replacement date for cartridge 4",
+                    "LS5_date_start": "Replacement date for cartridge 5",
+                    "LS6_date_start": "Replacement date for cartridge 6",
+                    "LS7_date_start": "Replacement date for cartridge 7",
+                    "LS8_date_start": "Replacement date for cartridge 8",
+                    "LS9_date_start": "Replacement date for cartridge 9",
+                    "LS10_date_start": "Replacement date for cartridge 10",
+                    "LS11_date_start": "Replacement date for cartridge 11",
+                    "LS12_date_start": "Replacement date for cartridge 12"               
+                },
+                "description": "Please enter the replacement date for your cartridge.\n\nFormat Year-Month-Day e.g.: 1996-08-08\n"
+            },
+            "life_cycle": {
+                "data": {
+                    "LS1_life_cycle": "Lifetime of cartridge 1",
+                    "LS2_life_cycle": "Lifetime of cartridge 2",
+                    "LS3_life_cycle": "Lifetime of cartridge 3",
+                    "LS4_life_cycle": "Lifetime of cartridge 4",
+                    "LS5_life_cycle": "Lifetime of cartridge 5",
+                    "LS6_life_cycle": "Lifetime of cartridge 6",
+                    "LS7_life_cycle": "Lifetime of cartridge 7",
+                    "LS8_life_cycle": "Lifetime of cartridge 8",
+                    "LS9_life_cycle": "Lifetime of cartridge 9",
+                    "LS10_life_cycle": "Lifetime of cartridge 10",
+                    "LS11_life_cycle": "Lifetime of cartridge 11",
+                    "LS12_life_cycle": "Lifetime of cartridge 12"
+                },
+                "description": "Please enter the replacement lifetime for your cartridge.\n\nFormat is number of months e.g.: 24\n"
+            }                
+        }
+    },
+    "options": {
+        "error": {
+            "unknown": "Unknown error. Please report to github@duongcuong8896.",
+            "invalid_date": "The date format you entered is invalid: "    
+        },
+        "step": {
+            "date_start": {
+                "data": {
+                    "LS1_date_start": "Replacement date for cartridge 1",
+                    "LS2_date_start": "Replacement date for cartridge 2",
+                    "LS3_date_start": "Replacement date for cartridge 3",
+                    "LS4_date_start": "Replacement date for cartridge 4",
+                    "LS5_date_start": "Replacement date for cartridge 5",
+                    "LS6_date_start": "Replacement date for cartridge 6",
+                    "LS7_date_start": "Replacement date for cartridge 7",
+                    "LS8_date_start": "Replacement date for cartridge 8",
+                    "LS9_date_start": "Replacement date for cartridge 9",
+                    "LS10_date_start": "Replacement date for cartridge 10",
+                    "LS11_date_start": "Replacement date for cartridge 11",
+                    "LS12_date_start": "Replacement date for cartridge 12"  
+                },
+                "description": "Please enter the replacement date for your cartridge.\n\nFormat Year-Month-Day e.g.: 1996-08-08\n"
+            },
+            "life_cycle": {
+                "data": {
+                    "LS1_life_cycle": "Lifetime of cartridge 1",
+                    "LS2_life_cycle": "Lifetime of cartridge 2",
+                    "LS3_life_cycle": "Lifetime of cartridge 3",
+                    "LS4_life_cycle": "Lifetime of cartridge 4",
+                    "LS5_life_cycle": "Lifetime of cartridge 5",
+                    "LS6_life_cycle": "Lifetime of cartridge 6",
+                    "LS7_life_cycle": "Lifetime of cartridge 7",
+                    "LS8_life_cycle": "Lifetime of cartridge 8",
+                    "LS9_life_cycle": "Lifetime of cartridge 9",
+                    "LS10_life_cycle": "Lifetime of cartridge 10",
+                    "LS11_life_cycle": "Lifetime of cartridge 11",
+                    "LS12_life_cycle": "Lifetime of cartridge 12"
+                },
+                "description": "Please enter the replacement lifetime for your cartridge.\n\nFormat is number of months e.g.: 24\n"
+            }
+        }  
+    }
+}
