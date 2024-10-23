@@ -2,7 +2,7 @@
 
 from datetime import timedelta
 
-DEFAULT_SCAN_INTERVAL = timedelta(minutes=1)
+DEFAULT_SCAN_INTERVAL = timedelta(hours=6)
 
 DOMAIN = "Water_Purifier_Cartridge_Management"
 
